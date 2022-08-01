@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pinjaman Kereta</string>
+    <string name="second_fragment_label">Faedah</string>
+    <string name="price">Harga</string>
+    <string name="down_payment">Bayaran Pendahuluan</string>
+    <string name="income">Pendapatan</string>
+    <string name="interest_rate">Kadar Faedah(%)</string>
+    <string name="period">Tempoh Pinjaman(tahun)</string>
+    <string name="uni_grad">Saya seorang lepasan universe</string>
+    <string name="result">Keputusan</string>
+    <string name="monthly_payment">Bayaran Bulan</string>
+    <string name="calculate">Kira</string>
+    <string name="close">Tutup</string>
+    <string name="bank">Bank</string>
+</resources>
